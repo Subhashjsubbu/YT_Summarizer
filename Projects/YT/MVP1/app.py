@@ -43,10 +43,9 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 📝 How to use")
     st.markdown("""
-    1. Add your Gemini API key to `.env` file
-    2. Paste a YouTube video URL
-    3. Click 'Generate Summary'
-    4. Wait for the AI analysis
+    1. Paste a YouTube video URL
+    2. Click 'Generate Summary'
+    3. Wait for the AI analysis
     """)
     st.markdown("---")
     st.markdown("### ℹ️ About")
